@@ -8,3 +8,16 @@
 
 ## About
 I'm a student of law, but in several months I've been interested in becoming front-end developer. My aim is day-to-day increase my knowledge and experience in this field and become qualified engineer.
+
+## Skills
++ **HTML**
++ **CSS**
++ **JavaScript**
++ **GIT**
+
+## Code Examples
+```
+function multiply(a, b){
+  return a * b
+}
+```
