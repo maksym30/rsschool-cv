@@ -21,3 +21,18 @@ function multiply(a, b){
   return a * b
 }
 ```
+## Education
++ **West Ukrainian National University, Ternopil**
+    + Faculty of Law
++ Courses:
+    + [Harvard CS50](https://javarush.com/quests/QUEST_HARVARD_CS50)
+    + [JavaScript by Bogdan Stashchuk](https://stashchuk.com/javascript-ru)
+    + [FreeCodeCamp](https://www.freecodecamp.org/)
+
+## Experience
+*Not yet*
+
+## Languages
++ English - EPAM English test result: **B2**
++ Ukrainian - **native**
++ Polish - **A2**
